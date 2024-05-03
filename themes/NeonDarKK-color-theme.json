@@ -1,7 +1,9 @@
 {
-	"name": "NeonDarKK-dark-theme",
-	"displayName": "NeonDarKK",
-	
+	"name": "NeonDarKK_One-dark-theme",
+	"displayName": "NeonDarKK_One",
+	"description": "A good looking neon dark theme",
+	"verson": "1.0.0",
+	"publisher": "Jack2333",
 
 	"type": "dark",
 	"colors": {
@@ -244,7 +246,7 @@
 		  "keyword.other.substitution"
 		],
 		"settings": {
-		  "foreground": "#ffb1ea"
+		  "foreground": "#ff95e3"
 		}
 	  },
 	  {
@@ -343,7 +345,7 @@
 		  "constant.other"
 		],
 		"settings": {
-		  "foreground": "#e288e7"
+		  "foreground": "#ff4aff"
 		}
 	  },
 	  {
