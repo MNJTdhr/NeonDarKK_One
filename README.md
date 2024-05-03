@@ -14,18 +14,6 @@ Introducing NeondarKK: A Vibrant Dark Theme for VS Code
 ### Javascript
 ![Dark theme](assets/js.png)
 
-### C++
-![Dark theme](assets/cpp.png)
-
-### C#
-![Dark theme](assets/cs.png)
-
-### Javas
-![Dark theme](assets/java.png)
-
-### Python
-![Dark theme](assets/py.png)
-
 UI
 --
 
