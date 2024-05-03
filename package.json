@@ -1,0 +1,21 @@
+{
+  "name": "neondarkk",
+  "displayName": "NeonDarKK",
+  "description": "The dark theme i find comfortable using",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.88.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "NeonDarKK",
+        "uiTheme": "vs-dark",
+        "path": "./themes/NeonDarKK-color-theme.json"
+      }
+    ]
+  }
+}
