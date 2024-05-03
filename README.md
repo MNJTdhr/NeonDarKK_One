@@ -1,4 +1,4 @@
-# Neondarkk Piece1
+# Neondarkk_One
 
 Introducing NeondarKK: A Vibrant Dark Theme for VS Code
 
@@ -13,4 +13,3 @@ Introducing NeondarKK: A Vibrant Dark Theme for VS Code
 
 ### Javascript
 ![Dark theme](assets/js.png)
-
