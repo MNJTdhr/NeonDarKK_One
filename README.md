@@ -1,6 +1,6 @@
 # Neondarkk_One
 
-Introducing NeondarKK: A Vibrant Dark Theme for VS Code. <br>
+Introducing NeondarKK: A Vibrant Dark Theme for VS Code.<br>
 I suggest using the Material icon theme with it for a cooler look.
 
 ### Flutter
