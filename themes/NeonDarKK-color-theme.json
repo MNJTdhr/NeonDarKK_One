@@ -1,10 +1,5 @@
 {
-	"name": "NeonDarKK_One-dark-theme",
-	"displayName": "NeonDarKK_One",
-	"description": "A good looking neon dark theme",
-	"verson": "1.0.0",
-	"publisher": "Jack2333",
-
+	"name": "NeonDarKK_One_dark_theme",
 	"type": "dark",
 	"colors": {
 	  "editor.background": "#0d1117",

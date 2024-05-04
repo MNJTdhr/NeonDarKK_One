@@ -1,14 +1,33 @@
 {
-  "name": "neondarkk",
-  "displayName": "NeonDarKK",
-  "description": "The dark theme i find comfortable using",
+  "name": "neondarkkone",
+  "displayName": "NeonDarKK_One",
+  "description": "A good looking neon dark theme",
   "version": "0.0.1",
+  "publisher": "JackMakingThemes",
   "engines": {
     "vscode": "^1.88.0"
   },
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "NeonDarKK_One",
+    "neondarkk_one",
+    "neondarkkone",
+    "neondarkone",
+    "NeonDarKK",
+    "neondark",
+    "neon dark",
+    "vscode",
+    "theme",
+    "dark",
+    "neon dark theme",
+    "dark theme"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jack23332/NeonDarKK_One.git"
+  },
   "contributes": {
     "themes": [
       {
