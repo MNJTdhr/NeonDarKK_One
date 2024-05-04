@@ -2,11 +2,11 @@
   "name": "neondarkkone",
   "displayName": "NeonDarKK_One",
   "description": "A good looking neon dark theme",
+  "icon": "icon.png",
   "version": "1.0.0",
   "publisher": "JackMakingThemes",
   "engines": {
-  "vscode": "^1.88.0",
-  "icon": "icon.png"
+  "vscode": "^1.88.0"
   },
   "categories": [
     "Themes"
