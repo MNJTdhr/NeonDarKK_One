@@ -2,7 +2,7 @@
 	"name": "NeonDarKK_One_dark_theme",
 	"type": "dark",
 	"colors": {
-	  "editor.background": "#0d1117",
+	  "editor.background": "#131921",	//141b24
 	  "panel.background": "#191B2A",
 	  "editorCursor.foreground": "#EFF0F6",
 	  "editor.foreground": "#EFF0F6",
