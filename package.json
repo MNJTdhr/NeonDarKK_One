@@ -2,7 +2,7 @@
   "name": "neondarkkone",
   "displayName": "NeonDarKK_One",
   "description": "A good looking neon dark theme",
-  "icon": "icon.png",
+  "icon": "assets/icon.png",
   "version": "1.0.0",
   "publisher": "JackMakingThemes",
   "engines": {
