@@ -9,8 +9,6 @@ Introducing NeondarKK: A Vibrant Dark Theme for VS Code.
   <img alt="preview" src="https://github.com/jack23332/NeonDarKK_One/raw/main/assets/flutter.png" >
 </p> -->
 
-
-
 ### HTML
 ![Dark theme](assets/html.png)
 <!-- <p align="center">
