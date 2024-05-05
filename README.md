@@ -4,31 +4,27 @@ Introducing NeondarKK: A Vibrant Dark Theme for VS Code.
 <br>
 
 ### Flutter
-
-<p align="center">
+![Dark theme](assets/flutter.png)
+<!-- <p align="center">
   <img alt="preview" src="https://github.com/jack23332/NeonDarKK_One/raw/main/assets/flutter.png" >
-</p>
+</p> -->
 
-<!-- ![Dark theme](assets/flutter.png) -->
 
 
 ### HTML
-
-<p align="center">
+![Dark theme](assets/html.png)
+<!-- <p align="center">
   <img alt="preview" src="https://github.com/jack23332/NeonDarKK_One/raw/main/assets/html.png" >
-</p>
-<!-- ![Dark theme](assets/html.png) -->
+</p> -->
 
 ### CSS
-
-<p align="center">
+![Dark theme](assets/css.png)
+<!-- <p align="center">
   <img alt="preview" src="https://github.com/jack23332/NeonDarKK_One/raw/main/assets/css.png" >
-</p>
-<!-- ![Dark theme](assets/css.png) -->
+</p> -->
 
 ### Javascript
-
-<p align="center">
+![Dark theme](assets/js.png)
+<!-- <p align="center">
   <img alt="preview" src="https://github.com/jack23332/NeonDarKK_One/raw/main/assets/js.png" >
-</p>
-<!-- ![Dark theme](assets/js.png) -->
+</p> -->
