@@ -169,6 +169,14 @@
 	  "settings.modifiedItemIndicator": "#94bfff",
 	},
 	"semanticHighlighting": true,
+	// {
+	//   "name": "Entity Names",
+	//   "scope": "entity.name",
+	//   "settings": {
+	//   "foreground": "#39FFBA"
+	//   "fontStyle": "italic"
+	//   }
+	// },
 	"tokenColors": [
 	  {
 		"name": "Comment",
@@ -177,7 +185,7 @@
 		  "foreground": "#9096a4",
 		  "fontStyle": "italic"
 		}
-	  },
+	},
 	  {
 		"name": "Variables",
 		"scope": ["variable", "string constant.other.placeholder"],		//@override
@@ -403,13 +411,6 @@
 		  "foreground": "#39ffac"
 		}
 	  },
-	  // {
-	  //   "name": "Entity Names",
-	  //   "scope": "entity.name",
-	  //   "settings": {
-	  //     "foreground": "#39FFBA"
-	  //   }
-	  // },
 	  {
 		"name": "Class, Support",
 		"scope": [
