@@ -3,3 +3,6 @@
 
 # 1.0.1
 * Changed the editor background to a slightly milder dark.
+
+# 1.0.2
+* Killed a few bugs and unexpected behaviours.
