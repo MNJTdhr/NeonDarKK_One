@@ -278,7 +278,7 @@
 		"scope": "support.function",
 		"settings": {
 		  "fontStyle": "",
-		  "foreground": "#39FFBA"
+		  "foreground": "#39FFBA"			//functions Style
 		}
 	  },
 	  {
@@ -407,7 +407,7 @@
 		"name": "Library class/type",
 		"scope": ["support.type", "support.class"],
 		"settings": {
-		  "fontStyle": "",
+		  "fontStyle": "",				//functions Styles
 		  "foreground": "#39ffac"
 		}
 	  },
