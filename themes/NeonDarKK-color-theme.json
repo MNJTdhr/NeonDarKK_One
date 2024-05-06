@@ -159,7 +159,7 @@
 	  "gitDecoration.conflictingResourceForeground": "#ffee7a",
 	  "gitDecoration.submoduleResourceForeground": "#eff0f6",
 	  "debugToolBar.background": "#191b2a",
-	  "editor.stackFrameHighlightBackground": "#ffca7a",
+	  "editor.stackFrameHighlightBackground": "#ff88001e",  //debug Line highlit
 	  "editor.focusedStackFrameHighlightBackground": "#ffca7a",
 	  "peekViewEditor.matchHighlightBackground": "#ffee7a33",
 	  "peekViewResult.matchHighlightBackground": "#ffee7a33",
