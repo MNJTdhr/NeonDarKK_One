@@ -6,3 +6,6 @@
 
 # 1.0.2
 * Killed a few bugs and unexpected behaviours.
+
+# 1.0.3
+* Some minor changes.
