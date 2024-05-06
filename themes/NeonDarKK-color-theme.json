@@ -536,59 +536,59 @@
 		}
 	  },
 	  {
-		"name": "Escape Characters",
-		"scope": ["constant.character.escape"],
-		"settings": {
-		  "foreground": "#ff4040"
-		}
-	  },
-	  {
-		"name": "URL",
-		"scope": ["*url*", "*link*", "*uri*"],
-		"settings": {
-		  "fontStyle": "underline",
-		  "foreground": "#01f7f7"
-		}
-	  },
-	  {
-		"name": "Decorators",
-		"scope": [
-		  "tag.decorator.js entity.name.tag.js",
-		  "tag.decorator.js punctuation.definition.tag.js"
-		],
-		"settings": {
-		  "fontStyle": "italic",
-		  "foreground": "#94bfff"
-		}
-	  },
-	  {
-		"name": "Entity Name Module Ruby",
-		"scope": ["entity.name.module.ruby"],
-		"settings": {
-		  "foreground": "#94bfff"
-		}
-	  },
-	  {
-		"name": "Entity Name Constant Ruby",
-		"scope": ["entity.name.constant.ruby"],
-		"settings": {
-		  "foreground": "#f1b3f1"
-		}
-	  },
-	  {
-		"name": "Support Function Builtin Ruby",
-		"scope": ["support.function.builtin.ruby"],
-		"settings": {
-		  "foreground": "#eff0f6"
-		}
-	  },
-	  {
-		"name": "Storage Type Namespace CS",
-		"scope": ["storage.type.namespace.cs"],
-		"settings": {
-		  "foreground": "#f1b3f1"
-		}
-	  },
+		  "name": "Support Function Builtin Ruby",
+		  "scope": ["support.function.builtin.ruby"],
+		  "settings": {
+			  "foreground": "#eff0f6"
+			}
+		},
+		{
+			"name": "Storage Type Namespace CS",
+			"scope": ["storage.type.namespace.cs"],
+			"settings": {
+				"foreground": "#f1b3f1"
+			}
+		},
+		{
+		  "name": "Escape Characters",
+		  "scope": ["constant.character.escape"],
+		  "settings": {
+			"foreground": "#ff4040"
+		  }
+		},
+		{
+		  "name": "URL",
+		  "scope": ["*url*", "*link*", "*uri*"],
+		  "settings": {
+			"fontStyle": "underline",
+			"foreground": "#01f7f7"
+		  }
+		},
+		{
+		  "name": "Decorators",
+		  "scope": [
+			"tag.decorator.js entity.name.tag.js",
+			"tag.decorator.js punctuation.definition.tag.js"
+		  ],
+		  "settings": {
+			"fontStyle": "italic",
+			"foreground": "#94bfff"
+		  }
+		},
+		{
+		  "name": "Entity Name Module Ruby",
+		  "scope": ["entity.name.module.ruby"],
+		  "settings": {
+			"foreground": "#94bfff"
+		  }
+		},
+		{
+		  "name": "Entity Name Constant Ruby",
+		  "scope": ["entity.name.constant.ruby"],
+		  "settings": {
+			"foreground": "#f1b3f1"
+		  }
+		},
 	  {
 		"name": "Keyword, Storage",		//that purple cum red
 		"scope": [
@@ -637,53 +637,53 @@
 		}
 	  },
 	  {
-		"name": "Ruby Incidentals",
-		"scope": [
-		  "source.ruby meta.function.method.with-arguments.ruby punctuation.definition.parameters.ruby",
-		  "source.ruby punctuation.section.array.ruby",
-		  "source.ruby punctuation.section.function.ruby",
-		  "source.ruby meta.require.ruby meta.environment-variable.ruby",
-		  "source.ruby punctuation.separator.variable.ruby"
-		],
-		"settings": {
-		  "foreground": "#4F5987"
-		}
-	  },
-	  {
-		"name": "ES7 Bind Operator",
-		"scope": [
-		  "source.js constant.other.object.key.js string.unquoted.label.js"
-		],
-		"settings": {
-		  "fontStyle": "italic",
-		  "foreground": "#ff6a6a"
-		}
-	  },
-	  {
-		"name": "Markup: strike",
-		"scope": ["markup.strike"],
-		"settings": {
-		  "fontStyle": "italic",
-		  "foreground": "#ffca7a"
-		}
-	  },
-	  {
-		"name": "Markup: link",
-		"scope": ["meta.link.inline", "meta.link.reference"],
-		"settings": {
-		  "fontStyle": " ",
-		  "foreground": "#01f7f7"
-		}
-	  },
-	  {
-		"name": "Markup:  ",
-		"scope": ["markup. "],
-		"settings": {
-		  "fontStyle": " ",
-		  "foreground": "#ffca7a"
-		}
-	  },
-	  {
+		  "name": "Markup: link",
+		  "scope": ["meta.link.inline", "meta.link.reference"],
+		  "settings": {
+			  "fontStyle": " ",
+			  "foreground": "#01f7f7"
+			}
+		},
+		{
+			"name": "Markup:  ",
+			"scope": ["markup. "],
+			"settings": {
+				"fontStyle": " ",
+				"foreground": "#ffca7a"
+			}
+		},
+		{
+		  "name": "Ruby Incidentals",
+		  "scope": [
+			"source.ruby meta.function.method.with-arguments.ruby punctuation.definition.parameters.ruby",
+			"source.ruby punctuation.section.array.ruby",
+			"source.ruby punctuation.section.function.ruby",
+			"source.ruby meta.require.ruby meta.environment-variable.ruby",
+			"source.ruby punctuation.separator.variable.ruby"
+		  ],
+		  "settings": {
+			"foreground": "#4F5987"
+		  }
+		},
+		{
+		  "name": "ES7 Bind Operator",
+		  "scope": [
+			"source.js constant.other.object.key.js string.unquoted.label.js"
+		  ],
+		  "settings": {
+			"fontStyle": "italic",
+			"foreground": "#ff6a6a"
+		  }
+		},
+		{
+		  "name": "Markup: strike",
+		  "scope": ["markup.strike"],
+		  "settings": {
+			"fontStyle": "italic",
+			"foreground": "#ffca7a"
+		  }
+		},
+		{
 		"name": "Markup: italic",
 		"scope": ["markup.italic"],
 		"settings": {
@@ -729,70 +729,69 @@
 		  "foreground": "#858db7"
 		}
 	  },
-  
 	  {
-		"name": "Markdown: raw inline",
-		"scope": ["text.html.markdown markup.raw.inline"],
-		"settings": {
-		  "foreground": "#39ffba"
-		}
-	  },
-  
-	  {
-		"name": "Markdown: underline",
-		"scope": ["text.html.markdown markup.raw.inline"],
-		"settings": {
-		  "fontStyle": "underline",
-		  "foreground": "#ffca7a"
-		}
+		  "name": "Punctuation Accessor",
+		  "scope": ["punctuation.accessor"],
+		  "settings": {
+			  "foreground": "#f1b3f1"
+		  }
 	  },
 	  {
-		"name": "Markdown: Raw block",
-		"scope": ["markup.raw.block"],
-		"settings": {
-		  "foreground": "#39ffba"
-		}
-	  },
+		  "name": "Markdown: Fenced Language",
+		  "scope": ["variable.language.fenced.markdown"],
+		  "settings": {
+			  "fontStyle": "italic",
+			  "foreground": "#858db7"
+			}
+		},
+		{
+		  "name": "Markdown: raw inline",
+		  "scope": ["text.html.markdown markup.raw.inline"],
+		  "settings": {
+			"foreground": "#39ffba"
+		  }
+		},
+	
+		{
+		  "name": "Markdown: underline",
+		  "scope": ["text.html.markdown markup.raw.inline"],
+		  "settings": {
+			"fontStyle": "underline",
+			"foreground": "#ffca7a"
+		  }
+		},
 	  {
-		"name": "Markdown: Raw Block fenced source",
-		"scope": ["markup.raw.block.fenced.markdown source"],
-		"settings": {
-		  "foreground": "#EFF0F6"
-		}
-	  },
-	  {
-		"name": "Markdown: Fenced Code Block",
-		"scope": [
-		  "punctuation.definition.fenced.markdown",
-		  "variable.language.fenced.markdown"
-		],
-		"settings": {
-		  "fontStyle": "italic",
-		  "foreground": "#858db7"
-		}
-	  },
-	  {
-		"name": "Markdown: Fenced Language",
-		"scope": ["variable.language.fenced.markdown"],
-		"settings": {
-		  "fontStyle": "italic",
-		  "foreground": "#858db7"
-		}
-	  },
-	  {
-		"name": "Punctuation Accessor",
-		"scope": ["punctuation.accessor"],
-		"settings": {
-		  "foreground": "#f1b3f1"
-		}
-	  },
-	  {
-		"name": "Meta Function Return Type",
-		"scope": ["meta.function.return-type"],
-		"settings": {
-		  "foreground": "#f1b3f1"
-		}
-	  },
+		  "name": "Meta Function Return Type",
+		  "scope": ["meta.function.return-type"],
+		  "settings": {
+			  "foreground": "#f1b3f1"
+			}
+		},
+		{
+		  "name": "Markdown: Raw block",
+		  "scope": ["markup.raw.block"],
+		  "settings": {
+			"foreground": "#39ffba"
+		  }
+		},
+		{
+		  "name": "Markdown: Raw Block fenced source",
+		  "scope": ["markup.raw.block.fenced.markdown source"],
+		  "settings": {
+			"foreground": "#EFF0F6"
+		  }
+		},
+		{
+		  "name": "Markdown: Fenced Code Block",
+		  "scope": [
+			"punctuation.definition.fenced.markdown",
+			"variable.language.fenced.markdown"
+		  ],
+		  "settings": {
+			"fontStyle": "italic",
+			"foreground": "#858db7"
+		  }
+		},
 	  {
 		"name": "Punctuation Section Block Begin",
 		"scope": ["punctuation.section.block.begin"],
@@ -874,35 +873,35 @@
 		}
 	  },
 	  {
-		"name": "Markup -  ",
-		"scope": ["markup. ", "markup.  string"],
-		"settings": {
-		  "fontStyle": " ",
-		  "foreground": "#ffca7a"
-		}
-	  },
-	  {
-		"name": "Markup -  -Italic",
-		"scope": [
-		  "markup.  markup.italic",
-		  "markup.italic markup. ",
-		  "markup.quote markup. ",
-		  "markup.  markup.italic string",
-		  "markup.italic markup.  string",
-		  "markup.quote markup.  string"
-		],
-		"settings": {
-		  "fontStyle": " ",
-		  "foreground": "#ff6a6a"
-		}
-	  },
-	  {
-		"name": "Markdown - Blockquote",
-		"scope": ["markup.quote punctuation.definition.blockquote.markdown"],
-		"settings": {
-		  "foreground": "#656fa4"
-		}
-	  },
+		  "name": "Markdown - Blockquote",
+		  "scope": ["markup.quote punctuation.definition.blockquote.markdown"],
+		  "settings": {
+			  "foreground": "#656fa4"
+			}
+		},
+		{
+		  "name": "Markup -  ",
+		  "scope": ["markup. ", "markup.  string"],
+		  "settings": {
+			"fontStyle": " ",
+			"foreground": "#ffca7a"
+		  }
+		},
+		{
+		  "name": "Markup -  -Italic",
+		  "scope": [
+			"markup.  markup.italic",
+			"markup.italic markup. ",
+			"markup.quote markup. ",
+			"markup.  markup.italic string",
+			"markup.italic markup.  string",
+			"markup.quote markup.  string"
+		  ],
+		  "settings": {
+			"fontStyle": " ",
+			"foreground": "#ff6a6a"
+		  }
+		},
 	  {
 		"name": "Markup - Quote",
 		"scope": ["markup.quote"],
