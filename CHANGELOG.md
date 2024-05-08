@@ -9,3 +9,6 @@
 
 # 1.0.3
 * Some minor changes.
+
+# 1.0.4
+* little tweaks in the theme to look even better.

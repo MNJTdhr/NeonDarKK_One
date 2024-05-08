@@ -310,18 +310,10 @@
 	  },
 	  {
 		"name": "Block Level Variables",
-		"scope": ["meta.block", "variable.other"],	//override
+		"scope": ["meta.block", "variable.other"],	//overridee
 		"settings": {
 		  "fontStyle": "bold",
 		  "foreground": "#fef9ed"
-		}
-	  },
-	  {
-		"name": "Library variable",
-		"scope": "support.other.variable",
-		"settings": {
-		  "fontStyle": "",
-		  "foreground": "#FFEE7A"
 		}
 	  },
 	  {
@@ -334,6 +326,14 @@
 	  {
 		"name": "Library Constant",
 		"scope": "support.constant",
+		"settings": {
+		  "fontStyle": "",
+		  "foreground": "#FFEE7A"
+		}
+	  },
+	  {
+		"name": "Library variable",
+		"scope": "support.other.variable",
 		"settings": {
 		  "fontStyle": "",
 		  "foreground": "#FFEE7A"
