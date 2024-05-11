@@ -105,7 +105,7 @@
 	  "editorGroupHeader.tabsBorder": "#131313",
 	  "editorGroup.border": "#191b2a",
 	  "tab.activeForeground": "#f2f2f2",
-	  "tab.inactiveForeground": "#a5abca",
+	  "tab.inactiveForeground": "#6d7e9b",		//flutter comments
 	  "tab.activeBackground": "#11121f",
 	  "tab.hoverBackground": "#111422",
 	  "tab.hoverForeground": "#b2e6ff",
@@ -123,7 +123,7 @@
 	  "editor.foldBackground": "#2a2d46b4",
 	  "editorLineNumber.activeForeground": "#eff0f6",
 	  "editorIndentGuide.background1": "#2a2d46",
-	  "editorIndentGuide.activeBackground1": "#4f5987",
+	  "editorIndentGuide.activeBackground1": "#5d9bff",	//indent
 	  "editor.findMatchBackground": "#ffee7a44",
 	  "editor.findMatchHighlightBackground": "#ffee7a22",
 	  "editor.inactiveSelectionBackground": "#212f4271",
@@ -177,15 +177,24 @@
 	//   "fontStyle": "italic"
 	//   }
 	// },
+	
 	"tokenColors": [
-	  {
+		{
 		"name": "Comment",
 		"scope": ["comment", "punctuation.definition.comment"],
 		"settings": {
-		  "foreground": "#9096a4",
+		  "foreground": "#8895b3",
 		  "fontStyle": "italic"
 		}
-	},
+	  },
+	//   {										//doesn't work
+	// 	"name": "Flutter Comments",
+	// 	"scope": ["dart.closingLabels"],	
+	// 	"settings": {
+	// 		"foreground": "#6d6d6d",
+	// 		"fontStyle": "italic"
+	// 	},
+	//   },
 	  {
 		"name": "Variables",
 		"scope": ["variable", "string constant.other.placeholder"],		//@override
@@ -353,7 +362,7 @@
 	  },
 	  {
 		"name": "Function argument",
-		"scope": "variable.parameter",		//variables
+		"scope": "variable.parameter",		//blue var
 		"settings": {
 		  "fontStyle": "italic",
 		  "foreground": "#1fd2ff"
