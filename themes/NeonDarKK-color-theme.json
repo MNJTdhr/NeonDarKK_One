@@ -187,14 +187,7 @@
 		  "fontStyle": "italic"
 		}
 	  },
-	//   {										//doesn't work
-	// 	"name": "Flutter Comments",
-	// 	"scope": ["dart.closingLabels"],	
-	// 	"settings": {
-	// 		"foreground": "#6d6d6d",
-	// 		"fontStyle": "italic"
-	// 	},
-	//   },
+	  
 	  {
 		"name": "Variables",
 		"scope": ["variable", "string constant.other.placeholder"],		//@override
@@ -295,11 +288,11 @@
 		"scope": [
 		  "entity.name.function",
 		  "meta.function-call",
-		  "keyword.other.special-method"		//functions
+		  "keyword.other.special-method"		//functions yellows
 		],
 		"settings": {
 		  "fontStyle": "",
-		  "foreground": "#d7e499"
+		  "foreground": "#d1e668"
 		}
 	  },
 	  {
@@ -362,7 +355,7 @@
 	  },
 	  {
 		"name": "Function argument",
-		"scope": "variable.parameter",		//blue var
+		"scope": "variable.parameter",		//blues var 39ffac
 		"settings": {
 		  "fontStyle": "italic",
 		  "foreground": "#1fd2ff"
@@ -416,7 +409,7 @@
 		"name": "Library class/type",
 		"scope": ["support.type", "support.class"],
 		"settings": {
-		  "fontStyle": "",				//functions Styles
+		  "fontStyle": "",				//functions Styles greens 1fd2ff
 		  "foreground": "#39ffac"
 		}
 	  },
