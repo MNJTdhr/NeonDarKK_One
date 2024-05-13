@@ -15,3 +15,6 @@
 
 # 1.0.5
 * little tweaks in the theme to look even better.
+
+# 1.1.0
+* little tweaks in the theme to make it look even better.
