@@ -37,7 +37,7 @@
 	  "statusBar.debuggingBackground": "#ae3052", //c23259
 	  "statusBar.debuggingBorder": "#ff7411", //ac3756
 	  "statusBar.debuggingForeground": "#EFF0F6",
-	  "statusBar.noFolderBackground": "#68217a",
+	  "statusBar.noFolderBackground": "#22243f",
 	  "statusBar.noFolderForeground": "#EFF0F6",
 	  "statusBarItem.prominentBackground": "#ffca7a",
 	  "statusBarItem.remoteBackground": "#39ffac",
