@@ -882,14 +882,6 @@
 			}
 		},
 		{
-		  "name": "Markup -  ",
-		  "scope": ["markup. ", "markup.  string"],
-		  "settings": {
-			"fontStyle": " ",
-			"foreground": "#ffca7a"
-		  }
-		},
-		{
 		  "name": "Markup -  -Italic",
 		  "scope": [
 			"markup.  markup.italic",
@@ -902,6 +894,14 @@
 		  "settings": {
 			"fontStyle": " ",
 			"foreground": "#ff6a6a"
+		  }
+		},
+		{
+		  "name": "Markup -  ",
+		  "scope": ["markup. ", "markup.  string"],
+		  "settings": {
+			"fontStyle": " ",
+			"foreground": "#ffca7a"
 		  }
 		},
 	  {

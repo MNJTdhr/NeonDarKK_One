@@ -3,7 +3,7 @@
   "displayName": "NeonDarKK_One",
   "description": "A good looking neon dark theme",
   "icon": "assets/icon.png",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "publisher": "JackMakingThemes",
   "engines": {
   "vscode": "^1.88.0"
@@ -27,7 +27,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jack23332/NeonDarKK_One.git"
+    "url": "git+https://github.com/MNJTdhr/NeonDarKK_One.git"
   },
   "contributes": {
     "themes": [

@@ -18,3 +18,6 @@
 
 # 1.1.0
 * little tweaks in the theme to make it look even better.
+
+# 1.1.1
+* New updated asset images and some other minor changes.
