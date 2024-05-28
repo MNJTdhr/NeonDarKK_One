@@ -23,7 +23,7 @@
 	  "editorSuggestWidget.background": "#101019",
 	  "menu.background": "#121824",
 	  "menu.foreground": "#ececec",
-	  "widget.shadow": "#0012af87",
+	  "widget.shadow": "#000000",
 	  "menu.selectionBackground": "#002b46",
 	  "menu.selectionForeground": "#ffffff",
 	  "menu.separatorBackground": "#242734",
@@ -34,8 +34,8 @@
 	  "statusBar.background": "#20223c",
 	  "statusBar.foreground": "#EFF0F6",
 	  "statusBar.border": "#0c0d1b",
-	  "statusBar.debuggingBackground": "#ae3052", //c23259
-	  "statusBar.debuggingBorder": "#ff7411", //ac3756
+	  "statusBar.debuggingBackground": "#ae393b", //c23259
+	  "statusBar.debuggingBorder": "#752224", //ac3756
 	  "statusBar.debuggingForeground": "#EFF0F6",
 	  "statusBar.noFolderBackground": "#22243f",
 	  "statusBar.noFolderForeground": "#EFF0F6",
