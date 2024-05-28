@@ -21,3 +21,6 @@
 
 # 1.1.1
 * New updated asset images and some other minor changes.
+
+# 1.2.0
+* UI color changes.
