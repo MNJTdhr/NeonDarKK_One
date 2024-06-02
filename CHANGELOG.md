@@ -24,3 +24,6 @@
 
 # 1.2.0
 * UI color changes.
+
+# 1.2.
+* New theme file.
