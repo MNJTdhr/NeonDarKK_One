@@ -32,7 +32,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "NeonDarKK",
+        "label": "NeonDarKK_One",
         "uiTheme": "vs-dark",
         "path": "./themes/NeonDarKK-color-theme.json"
       }

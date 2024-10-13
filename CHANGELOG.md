@@ -30,3 +30,6 @@
 
 # 1.2.2
 * New theme file(Experimental).
+
+# 1.3.0
+* changes in package.json
