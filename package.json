@@ -3,7 +3,7 @@
   "displayName": "NeonDarKK_One",
   "description": "A good looking neon dark theme",
   "icon": "assets/icon.png",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "publisher": "JackMakingThemes",
   "engines": {
   "vscode": "^1.88.0"

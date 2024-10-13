@@ -27,3 +27,6 @@
 
 # 1.2.1
 * New theme file.
+
+# 1.2.2
+* New theme file(Experimental).

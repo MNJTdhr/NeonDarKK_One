@@ -1,8 +1,8 @@
 {
-	"name": "NeonDarKK_One_dark_theme",
+	"name": "NeonDarKK_One_dark_themeTwo",
 	"type": "dark",
 	"colors": {
-	  "editor.background": "#131921",	//141b24
+	  "editor.background": "#131921",
 	  "panel.background": "#191B2A",
 	  "editorCursor.foreground": "#EFF0F6",
 	  "editor.foreground": "#EFF0F6",
@@ -34,8 +34,8 @@
 	  "statusBar.background": "#20223c",
 	  "statusBar.foreground": "#EFF0F6",
 	  "statusBar.border": "#0c0d1b",
-	  "statusBar.debuggingBackground": "#ae393b", //c23259
-	  "statusBar.debuggingBorder": "#752224", //ac3756
+	  "statusBar.debuggingBackground": "#ae393b", 
+	  "statusBar.debuggingBorder": "#752224",
 	  "statusBar.debuggingForeground": "#EFF0F6",
 	  "statusBar.noFolderBackground": "#22243f",
 	  "statusBar.noFolderForeground": "#EFF0F6",
@@ -78,7 +78,7 @@
 	  "activityBarBadge.foreground": "#191b2a",
 	  "activityBar.background": "#191b2a",
 	  "activityBarBadge.background": "#94bfff",
-	  "activityBar.activeBorder": "#25aff3", //ff6a6a
+	  "activityBar.activeBorder": "#25aff3",
 	  "activityBar.border": "#000000",
 	  "sideBar.border": "#191b2a",
 	  "sideBarTitle.foreground": "#eff0f6",
@@ -105,7 +105,7 @@
 	  "editorGroupHeader.tabsBorder": "#131313",
 	  "editorGroup.border": "#191b2a",
 	  "tab.activeForeground": "#f2f2f2",
-	  "tab.inactiveForeground": "#6d7e9b",		//flutter comments
+	  "tab.inactiveForeground": "#6d7e9b",	
 	  "tab.activeBackground": "#11121f",
 	  "tab.hoverBackground": "#111422",
 	  "tab.hoverForeground": "#b2e6ff",
@@ -123,7 +123,7 @@
 	  "editor.foldBackground": "#2a2d46b4",
 	  "editorLineNumber.activeForeground": "#eff0f6",
 	  "editorIndentGuide.background1": "#2a2d46",
-	  "editorIndentGuide.activeBackground1": "#5d9bff",	//indent
+	  "editorIndentGuide.activeBackground1": "#5d9bff",
 	  "editor.findMatchBackground": "#ffee7a44",
 	  "editor.findMatchHighlightBackground": "#ffee7a22",
 	  "editor.inactiveSelectionBackground": "#212f4271",
@@ -159,24 +159,16 @@
 	  "gitDecoration.conflictingResourceForeground": "#ffee7a",
 	  "gitDecoration.submoduleResourceForeground": "#eff0f6",
 	  "debugToolBar.background": "#191b2a",
-	  "editor.stackFrameHighlightBackground": "#ff88001e",  //debug Line highlit
+	  "editor.stackFrameHighlightBackground": "#ff88001e",
 	  "editor.focusedStackFrameHighlightBackground": "#ffca7a",
 	  "peekViewEditor.matchHighlightBackground": "#ffee7a33",
 	  "peekViewResult.matchHighlightBackground": "#ffee7a33",
 	  "peekViewEditor.background": "#94bfff88",
 	  "peekViewResult.background": "#94bfff",
 	  "settings.headerForeground": "#eff0f6",
-	  "settings.modifiedItemIndicator": "#94bfff",
+	  "settings.modifiedItemIndicator": "#94bfff"
 	},
 	"semanticHighlighting": true,
-	// {
-	//   "name": "Entity Names",
-	//   "scope": "entity.name",
-	//   "settings": {
-	//   "foreground": "#1EFFB0"
-	//   "fontStyle": "italic"
-	//   }
-	// },
 	
 	"tokenColors": [
 		{
@@ -190,7 +182,7 @@
 	  
 	  {
 		"name": "Variables",
-		"scope": ["variable", "string constant.other.placeholder"],		//@override
+		"scope": ["variable", "string constant.other.placeholder"],		
 		"settings": {
 		  "fontStyle": "bold",
 		  "foreground": "#ffffff"
@@ -244,7 +236,7 @@
 	  {
 		"name": "Operator, Misc",
 		"scope": [
-		  "keyword.control",		//loop if else
+		  "keyword.control",		
 		  "constant.other.color",
 		  "punctuation.separator.inheritance.php",
 		  "keyword.other.template",
@@ -257,7 +249,7 @@
 	  {
 		"name": "Operator, Misc",
 		"scope": [
-		  "keyword.control.return.cpp",		//loop if else
+		  "keyword.control.return.cpp"		
 		],
 		"settings": {
 		  "foreground": "#769bff"
@@ -280,7 +272,7 @@
 		"scope": "support.function",
 		"settings": {
 		  "fontStyle": "",
-		  "foreground": "#1EFFB0"			//functions Style
+		  "foreground": "#1EFFB0"		
 		}
 	  },
 	  {
@@ -288,11 +280,11 @@
 		"scope": [
 		  "entity.name.function",
 		  "meta.function-call",
-		  "keyword.other.special-method"		//functions yellows
+		  "keyword.other.special-method"		
 		],
 		"settings": {
 		  "fontStyle": "",
-		  "foreground": "#fdf479"	//c2cf8c
+		  "foreground": "#fdf479"	
 		}
 	  },
 	  {
@@ -304,7 +296,7 @@
 	  },
 	  {
 		"name": "Block Level Variables",
-		"scope": ["variable.parameter.cpp", "meta.block.cpp", "variable.other.local.cpp", "variable.other.global.cpp"],	//variable cpp
+		"scope": ["variable.parameter.cpp", "meta.block.cpp", "variable.other.local.cpp", "variable.other.global.cpp"],	
 		"settings": {
 		  "fontStyle": "bold",
 		  "foreground": "#ffffff"
@@ -312,7 +304,7 @@
 	  },
 	  {
 		"name": "Block Level Variables",
-		"scope": ["meta.block", "variable.other"],	//overridee
+		"scope": ["meta.block", "variable.other"],	
 		"settings": {
 		  "fontStyle": "bold",
 		  "foreground": "#fef9ed"
@@ -344,7 +336,7 @@
 	  {
 		"name": "Number, Constant, Function Argument, Tag Attribute, Embedded",
 		"scope": [
-		  "constant.numeric",		//numeric
+		  "constant.numeric",		
 		  "constant.language",
 		  "constant.character",
 		  "constant.other"
@@ -355,7 +347,7 @@
 	  },
 	  {
 		"name": "Function argument",
-		"scope": "variable.parameter",		//blues(1fd2ff) var 39ffac
+		"scope": "variable.parameter",		
 		"settings": {
 		  "fontStyle": "italic",
 		  "foreground": "#1fd2ff"
@@ -363,7 +355,7 @@
 	  },
 	  {
 		"name": "Function argument",
-		"scope": "variable.parameter.cpp",		//variables
+		"scope": "variable.parameter.cpp",		
 		"settings": {
 		  "fontStyle": "bold",
 		  "foreground": "#ffffff"
@@ -378,7 +370,7 @@
 	  },
 	  {
 		"name": "String",
-		"scope": "string",		//strings (ffa162)
+		"scope": "string",		
 		"settings": {
 		  "fontStyle": "",
 		  "foreground": "#ffa162"
@@ -409,7 +401,7 @@
 		"name": "Library class/type",
 		"scope": ["support.type", "support.class"],
 		"settings": {
-		  "fontStyle": "",				//functions Styles greens(39ffac) 1fd2ff
+		  "fontStyle": "",				
 		  "foreground": "#39ffac"
 		}
 	  },
@@ -438,7 +430,7 @@
 		  "source.postcss support.type.property-name"
 		],
 		"settings": {
-		  "foreground": "#00d5ff"			//css id class
+		  "foreground": "#00d5ff"			
 		}
 	  },
 	  {
@@ -454,7 +446,7 @@
 	  },
 	  {
 		"name": "Language methods",
-		"scope": ["variable.language"],		//pink js
+		"scope": ["variable.language"],		
 		"settings": {
 		  "foreground": "#39ffac"
 		}
@@ -592,7 +584,7 @@
 		  }
 		},
 	  {
-		"name": "Keyword, Storage",		//that purple cum red
+		"name": "Keyword, Storage",		
 		"scope": [
 			"keyword",
 			"storage.type",
